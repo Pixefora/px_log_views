@@ -31,6 +31,10 @@ class Px_video_log_Deactivator {
 	 */
 	public static function deactivate() {
 
+        /**
+         * Only to develop
+         */
+
       /*  global $wpdb;
         $table_name_login = $wpdb->prefix . 'login_log';
         $table_name_video_views = $wpdb->prefix . 'video_views ';
